@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<merchantgood id="1" name="Tooth paste" price="1.25" />
+	<merchantgood id="2" name="Tooth brush" price="1.75" />
+	<merchantgood id="3" name="Shaving gel" price="5.00" />
+</dataset>
